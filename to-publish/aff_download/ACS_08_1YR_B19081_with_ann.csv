@@ -1,0 +1,4 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD02,HD02_VD02,HD01_VD03,HD02_VD03,HD01_VD04,HD02_VD04,HD01_VD05,HD02_VD05,HD01_VD06,HD02_VD06,HD01_VD07,HD02_VD07
+Id,Id2,Geography,Estimate; Quintile Means: - Lowest Quintile,Margin of Error; Quintile Means: - Lowest Quintile,Estimate; Quintile Means: - Second Quintile,Margin of Error; Quintile Means: - Second Quintile,Estimate; Quintile Means: - Third Quintile,Margin of Error; Quintile Means: - Third Quintile,Estimate; Quintile Means: - Fourth Quintile,Margin of Error; Quintile Means: - Fourth Quintile,Estimate; Quintile Means: - Highest Quintile,Margin of Error; Quintile Means: - Highest Quintile,Estimate; Top 5 Percent,Margin of Error; Top 5 Percent
+0100000US,,United States,11984,40,31370,70,52440,85,81579,92,180117,543,322881,1842
+3100000US14860,14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",16701,1032,48091,1905,85063,1971,136844,3208,402813,18737,822708,55104
