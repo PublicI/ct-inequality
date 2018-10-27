@@ -6,8 +6,7 @@ This is an analysis from the Center for Public Integrity's data team. It was cre
 
 ## What's here?
 
-* [95,20 Ratio Ranking.ipynb	](95,20 Ratio Ranking.ipynb	) - An analysis of inequality in America using Census microdata on income.
-* [Data](data) - Spreadsheets produced by the analysis.
+* 95,20 Ratio Ranking.ipynb - An analysis of inequality in America using Census microdata on income.
 
 ## Why did we do this?
 
